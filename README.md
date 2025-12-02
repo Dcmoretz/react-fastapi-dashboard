@@ -1,23 +1,20 @@
 # React + FastAPI Dashboard
+A lightweight dashboard application built using:
 
-## A lightweight dashboard application built using:
+React (Vite)
 
-## React (Vite)
+FastAPI
 
-## FastAPI
+MySQL
 
-## MySQL
+RESTful API architecture
 
-## RESTful API architecture
+📊 Features
 
-## 📊 Features
+Fetches data from a Python FastAPI backend
 
-## Fetches data from a Python FastAPI backend
+React UI using components and state management
 
-## React UI using components and state management
+MySQL relational database
 
-## MySQL relational database
-
-## Container-ready using simple Dockerfiles
-
-## Clean separation between frontend & backend
+Container-ready using simple Dockerfiles
